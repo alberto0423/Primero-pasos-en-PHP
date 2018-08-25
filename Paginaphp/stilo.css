@@ -1,0 +1,14 @@
+body{
+  margin: auto;
+  background-color: #26c7e8;
+}
+form{
+  width: 50px;
+  padding: 200px;
+  position: sticky;
+
+}
+
+*enviar{
+  background-color: #e30f0f;
+}
